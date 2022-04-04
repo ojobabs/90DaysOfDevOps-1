@@ -1,16 +1,16 @@
-## Gitting to know Git
+## Getting to know Git
 
-Apoligies for the terrible puns in the title and throughout. I am surely not the first person to turn Git into a dad joke! 
+Apologies for the terrible puns in the title and throughout. I am surely not the first person to turn Git into a dad joke! 
 
-In the last two posts we learnt about version control systems, and some of the fundamental workflows of git as a version control system [Day 35](day35.md) Then we got git installed on our system, updated and configured. We also went a little deeper on the theory between Client-Server version control system and Git which is a distributed version control system [Day 36](day36.md).
+In the last two posts we learned about version control systems, and some of the fundamental workflows of git as a version control system [Day 35](day35.md) Then we got git installed on our system, updated, and configured. We also went a little deeper into the theory between the Client-Server version control system and Git which is a distributed version control system [Day 36](day36.md).
 
 Now we are going to run through some of the commands and use cases that we will all commonly see with git.
 
 ### Where to git help with git? 
 
-There is going to be times where you just cannot remember or just don't know the command you need to get things done with git. You are going to need help. 
+There are going to be times when you just cannot remember or just don't know the command you need to get things done with git. You are going to need help. 
 
-It goes without saying that  google or any search engine is likely to be your first port of call when searching help. 
+It goes without saying that google or any search engine is likely to be your first port of call when searching for help. 
 
 Secondly the next place is going to be the official git site and the documentation. [git-scm.com/docs](http://git-scm.com/docs) Here you will find not only a solid reference to all the commands available but also lots of different resources. 
 
